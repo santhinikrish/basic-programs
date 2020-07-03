@@ -2,7 +2,7 @@
 void main()
 {
     int i,n1,n2,a[100],c;
-    scanf("%d",&n1,&n2);
+    scanf("%d %d",&n1,&n2);
     c=n1+n2;
     for(i=0;c>0;i++)
     {
